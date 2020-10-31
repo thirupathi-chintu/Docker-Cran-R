@@ -1,0 +1,6 @@
+Package: cats
+Version: 0.0.0.9000
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+        license
+MD5sum: 995c468bdf487f4b30fd85afc5046152
+NeedsCompilation: yes
